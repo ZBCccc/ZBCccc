@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## I'm ZBCccc, a master studying in HUST CSE.
+
 <!--
 **ZBCccc/ZBCccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

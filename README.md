@@ -13,10 +13,9 @@
 ---
 
 ### 📊 GitHub 统计
-![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=ZBCccc&show_icons=true&theme=radical)
+![ZBCccc的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=ZBCccc&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZBCccc&layout=compact)
 
 ---
+[![ZBCccc's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ZBCccc&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 📫 联系方式
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZBCccc)

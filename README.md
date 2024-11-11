@@ -12,12 +12,6 @@
 
 ---
 
-### 🌟 精选项目
-- [项目名称1](https://github.com/你的用户名/项目1)：项目简介
-- [项目名称2](https://github.com/你的用户名/项目2)：项目简介
-
----
-
 ### 📊 GitHub 统计
 ![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=ZBCccc&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZBCccc&layout=compact)

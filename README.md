@@ -9,7 +9,7 @@
 ### 🚀 技术栈
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
-https://komarev.com/ghpvc/?username=ZBCccc
+![访问量](https://komarev.com/ghpvc/?username=ZBCccc)
 
 ---
 

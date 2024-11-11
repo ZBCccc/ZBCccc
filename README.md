@@ -17,4 +17,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZBCccc&layout=compact)
 
 ---
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ZBCccc&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🎉个人贡献图
+![ZBCccc's github activity graph](https://ghchart.rshah.org/ZBCccc)

@@ -44,30 +44,6 @@
 
 ---
 
-### 📊 GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZBCccc&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZBCccc&layout=compact&hide_border=true&bg_color=0d1117&theme=radical" height="180" alt="languages graph" />
-</p>
-
----
-
-### 🏆 精选项目
-
-<p align="center">
-  <a href="https://github.com/ZBCccc/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZBCccc&repo=your-project-1&show_owner=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/ZBCccc/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZBCccc&repo=your-project-2&show_owner=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
-
-> 📌 请将上述 `project1`、`project2` 替换为你实际想要展示的仓库名
-
----
-
 ### 🎉 贡献图
 
 <p align="center">
